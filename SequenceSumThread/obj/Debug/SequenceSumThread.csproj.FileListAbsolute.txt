@@ -1,0 +1,7 @@
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\bin\Debug\SequenceSumThread.exe.config
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\bin\Debug\SequenceSumThread.exe
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\bin\Debug\SequenceSumThread.pdb
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\obj\Debug\SequenceSumThread.csproj.AssemblyReference.cache
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\obj\Debug\SequenceSumThread.csproj.CoreCompileInputs.cache
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\obj\Debug\SequenceSumThread.exe
+D:\study\university3\paralelni\1\c#\SequenceSumThread\SequenceSumThread\obj\Debug\SequenceSumThread.pdb
